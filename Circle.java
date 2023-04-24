@@ -1,4 +1,4 @@
-public class Circle(){
+public class Circle{
   private int radius;
   private String color;
   public static final double PI = 3.14;
