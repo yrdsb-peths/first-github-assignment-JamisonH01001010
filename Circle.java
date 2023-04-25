@@ -1,7 +1,7 @@
 public class Circle{
   private int radius;
   private String color;
-  public static final double PI = 3.14;
+  public static final double PI = 3.1415926535;
   
   public Circle(int radius, String color){
     radius = this.radius;

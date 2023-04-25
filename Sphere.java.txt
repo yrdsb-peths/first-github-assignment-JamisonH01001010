@@ -1,0 +1,13 @@
+import java.util.Math;
+public class Sphere{
+    private static final double PI = 3.1415926535
+    private double radius;
+    
+    public Sphere(double radius){
+        radius = this.radius;
+    }
+    
+    public double volume(){
+        return 4/3 * PI * Math.pow(radius, 3);
+    }
+}
